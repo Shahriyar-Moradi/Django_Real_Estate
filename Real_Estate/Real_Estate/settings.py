@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     "account",
     "property_listing",
     "realtor",
+    "core",
     
 ]
 
